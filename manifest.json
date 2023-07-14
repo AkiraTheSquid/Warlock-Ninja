@@ -1,0 +1,22 @@
+{
+    "manifestVersion": 1,
+    "id": "Warlock-Ninja",
+    "name": "Warlock Ninja",
+    "author": "AkiraTheSquid",
+    "repoUrl": "https://github.com/AkiraTheSquid/Warlock-Ninja",
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    },
+    "theme": ["dark"],
+    "enableOnMobile": false,
+    "description": "Another Warlock Spinoff",
+    "requestNative": false,
+    "requiredScopes": [
+      {
+        "type": "All",
+        "level": "Read"
+      }
+    ]
+  }
