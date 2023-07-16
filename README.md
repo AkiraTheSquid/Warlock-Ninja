@@ -1,5 +1,5 @@
 # Warlock-Ninja
-A new Warlock theme that should help making the remnote experience more enjoyable. 
+A new Warlock theme that should help make the remnote experience more enjoyable. 
 
 Use Classic invert for the best PDF Reading Experience. 
 
