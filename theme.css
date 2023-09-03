@@ -64,7 +64,7 @@
     /*changes 9/3/2023*/
 
     span.rn-rem-icon-bullet.flex.rounded.p-\[1px\].group-hover\:border.group-hover\:border-solid.group-hover\:border-gray-10.group-hover\:bg-gray-10.rn-rem-icon-bullet--hidden-children.border.border-solid.border-gray-20.rn-rem-bullet--hidden-children.rem-bullet--hidden-children {
-        border-color: var(--border-color);
+        border-color: var(--border-color) !important;
     }
 
     .p-4.group.hover\:rn-clr-background-secondary.group:hover {
