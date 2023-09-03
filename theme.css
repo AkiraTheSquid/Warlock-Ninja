@@ -63,6 +63,14 @@
     
     /*changes 9/3/2023*/
 
+    .rn-editor__rem__backlink-indicator.backlink-counter.cursor-pointer.select-none.z-1.px-2.py-\[3px\].rounded.h-4.min-w-2.flex.items-center.justify-center.bg-gray-10.hover\:bg-gray-20.text-gray-70.text-xs.font-semibold.fade-on-hide-ui {
+        background: var(--secondary-color)!important;
+    }
+
+    span.max-w-full.rn-tag.hierarchy-editor__tag-bar__tag.flex.px-2.py-1.text-xs.mx-1.ml-\[5px\].gap-1.pr-\[2px\].leading-\[13px\].items-stretch.font-inter.whitespace-pre.rounded-md.dont-break-rich-text-viewer.button.text-gray-70.hover\:bg-gray-10.bg-gray-5 {
+        background: var(--secondary-color)!important;
+    }
+
     span.rn-rem-icon-bullet.flex.rounded.p-\[1px\].group-hover\:border.group-hover\:border-solid.group-hover\:border-gray-10.group-hover\:bg-gray-10.rn-rem-icon-bullet--hidden-children.border.border-solid.border-gray-20.rn-rem-bullet--hidden-children.rem-bullet--hidden-children {
         border-color: var(--border-color) !important;
     }
